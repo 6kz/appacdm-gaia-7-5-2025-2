@@ -1,0 +1,218 @@
+<!-- Centro de Atividades e Capacitação para a Inclusão -->
+        <div class="service-item">
+          <div class="service-header">
+            <div class="service-icon">
+              <i class="fas fa-hands-helping"></i>
+            </div>
+            <h2>Centro de Atividades e Capacitação para a Inclusão</h2>
+          </div>
+
+          <div class="service-body">
+            <div class="service-description">
+              <h3>Objetivo</h3>
+              <ul>
+                <li>Promover o bem-estar, o desenvolvimento pessoal, a autonomia e a integração social de pessoas com
+                  deficiência mental, com idade igual ou superior a 16 anos, através da realização de atividades
+                  ocupacionais.</li>
+                <li>As atividades são desenvolvidas tendo em conta o perfil individual de cada cliente, definindo-se um
+                  Plano Individual de Intervenção (PII).</li>
+                <li>Sempre que possível, as atividades complementares são desenvolvidas na comunidade, recorrendo a
+                  parcerias.</li>
+                <li>Paralelamente às atividades definidas no PII, são ainda realizadas diversas atividades de caráter
+                  lúdico, cultural e desportivo.</li>
+              </ul>
+            </div>
+
+            <div class="service-info">
+              <div class="info-box">
+                <h4>Equipa Técnica</h4>
+                <ul>
+                  <li>Diretora Técnica</li>
+                  <li>Psicóloga</li>
+                  <li>Assistente Social</li>
+                  <li>Terapeutas Ocupacionais</li>
+                  <li>Animador Cultural</li>
+                  <li>Monitores</li>
+                  <li>Ajudantes de Estabelecimento de Apoio a Pessoas com Deficiência</li>
+                </ul>
+              </div>
+
+              <div class="info-box">
+                <h4>Legislação Aplicável</h4>
+                <ul>
+                  <li>Portaria nº 70/2021 de 26 de março</li>
+                  <li>Portaria n.º 432/2006, de 3 de Maio</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Intervenção Precoce na Infância -->
+        <div class="service-item">
+          <div class="service-header">
+            <div class="service-icon">
+              <i class="fas fa-child"></i>
+            </div>
+            <h2>Intervenção Precoce na Infância</h2>
+          </div>
+
+          <div class="service-body">
+            <div class="service-description">
+              <h3>Atividades</h3>
+              <ul>
+                <li>Integrada na Equipa Local de Intervenção de Gaia, a resposta social de Intervenção Precoce na
+                  Infância da APPACDM de Vila Nova de Gaia, tem como objetivo prestar apoio, integrado em Domicílio,
+                  Ama, Creche ou Jardins-de-Infância, a crianças entre os zero e os seis anos, com alterações nas
+                  funções ou estruturas do corpo que limitam a participação nas atividades típicas para a respectiva
+                  idade e contexto social ou com risco grave de atraso de desenvolvimento, bem como às suas famílias.
+                </li>
+                <li>Para cada criança, é realizada uma avaliação, tendo por objectivo o despiste de alterações ou risco
+                  de atraso grave do desenvolvimento e é realizado o encaminhamento mais adequado para cada caso.</li>
+                <li>É elaborado um Plano Individual de Intervenção Precoce na Infância (PIIP) que define os apoios a
+                  prestar consoante as necessidades identificadas.</li>
+                <li>Procura-se otimizar as condições de interação criança/família, mediante informação sobre a
+                  problemática em causa.</li>
+                <li>Promove-se o trabalho de equipa seguindo um modelo transdisciplinar e colaborando com todos os
+                  intervenientes no processo educativo.</li>
+              </ul>
+
+              <h3>Áreas de Intervenção</h3>
+              <ul>
+                <li>Psicologia</li>
+                <li>Serviço Social</li>
+                <li>Terapia da Fala</li>
+                <li>Terapia Ocupacional</li>
+              </ul>
+
+              <h3>Âmbito geográfico de atendimento</h3>
+              <p>Concelho de Vila Nova de Gaia - Freguesias: Avintes, Canidelo, Mafamude, Oliveira do Douro, Santa
+                Marinha, São Pedro da Afurada e Vilar de Andorinho.</p>
+            </div>
+
+            <div class="service-info">
+              <div class="info-box">
+                <h4>Equipa Técnica</h4>
+                <ul>
+                  <li>Diretora Técnica - Assistente Social</li>
+                  <li>Psicólogo</li>
+                  <li>Terapeuta Ocupacional</li>
+                  <li>Terapeuta da Fala</li>
+                </ul>
+              </div>
+
+              <div class="info-box">
+                <h4>Legislação Aplicável</h4>
+                <ul>
+                  <li>Decreto-Lei n.º 54/2018, de 6 de julho</li>
+                  <li>Decreto-Lei n.º 281/2009, de 6 de Outubro</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Lar Residencial -->
+        <div class="service-item">
+          <div class="service-header">
+            <div class="service-icon">
+              <i class="fas fa-home"></i>
+            </div>
+            <h2>Lar Residencial</h2>
+          </div>
+
+          <div class="service-body">
+            <div class="service-description">
+              <h3>Objetivo</h3>
+              <ul>
+                <li>Disponibilizar alojamento e apoio residencial permanente ou temporário; promover condições de vida
+                  que contribuam para o bem-estar e qualidade de vida adequadas às necessidades específicas dos
+                  clientes; reforço da auto-estima, valorização e autonomia pessoal e social, e da capacidade de
+                  organização das atividades da vida diária dos clientes.</li>
+                <li>Admitem-se jovens e adultos de ambos os sexos, com idade igual ou superior a 16 anos de idade, com
+                  deficiência mental, com retaguarda familiar e/ou institucional durante o dia, e provenientes do
+                  concelho de Vila Nova de Gaia.</li>
+                <li>Paralelamente aos cuidados primários prestados, são proporcionadas diversas atividades de caráter
+                  lúdico e social, com participação na comunidade.</li>
+              </ul>
+
+              <h3>Serviços assegurados</h3>
+              <ul>
+                <li>Serviço de alojamento</li>
+                <li>Refeições</li>
+                <li>Tratamento de roupa</li>
+                <li>Administração da medicação prescrita</li>
+                <li>Cuidados de saúde prescritos</li>
+                <li>Higiene e conforto pessoal</li>
+              </ul>
+            </div>
+
+            <div class="service-info">
+              <div class="info-box">
+                <h4>Equipa Técnica</h4>
+                <ul>
+                  <li>Diretora Técnica</li>
+                  <li>Encarregada de Setor</li>
+                  <li>Ajudantes de Ação Directa</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Socioeducativo -->
+        <div class="service-item">
+          <div class="service-header">
+            <div class="service-icon">
+              <i class="fas fa-graduation-cap"></i>
+            </div>
+            <h2>Socioeducativo</h2>
+          </div>
+
+          <div class="service-body">
+            <div class="service-description">
+              <h3>Objetivo</h3>
+              <ul>
+                <li>Reabilitar, em regime de educação especial, crianças e jovens entre os 6 e os 18 anos, através de
+                  programas individualizados concretizados por atividades diversificadas.</li>
+              </ul>
+
+              <h3>Atividades</h3>
+              <ul>
+                <li>Matemática Funcional, Português Funcional, Estudo do Meio, Treino Social, Estimulação Sensorial,
+                  Atividades da Vida Diária, Informática, Movimento Música e Drama, Educação Física, Psicomotricidade,
+                  Atividade em Meio Aquático, Arraiolos, Artes Plásticas, Hidromassagem, Snoezellen, Relation Play,
+                  Terapia Ocupacional e Terapia da Fala, Fisioterapia e Desenvolvimento Pessoal e Social.</li>
+                <li>As atividades são desenvolvidas tendo em conta o perfil individual de cada cliente, definindo-se o
+                  Currículo Específico Individual que é parte integrante do Seu PEI (Programa Educativo individual)</li>
+                <li>Paralelamente às atividades definidas no CEI (Currículo Específico Individual), são ainda realizadas
+                  diversas atividades de carácter lúdico, cultural e desportivo, patentes no Plano Anual de Atividades
+                  Extracurriculares.</li>
+              </ul>
+            </div>
+
+            <div class="service-info">
+              <div class="info-box">
+                <h4>Equipa Técnica</h4>
+                <ul>
+                  <li>Diretora Pedagógica</li>
+                  <li>Assistente Social</li>
+                  <li>Psicóloga</li>
+                  <li>Professora de Ensino Especial</li>
+                  <li>Ajudante de Estabelecimento de Apoio a Pessoas Deficientes</li>
+                  <li>Terapeuta Ocupacional</li>
+                  <li>Terapeuta da Fala</li>
+                </ul>
+              </div>
+
+              <div class="info-box">
+                <h4>Legislação Aplicável</h4>
+                <ul>
+                  <li>Decreto-Lei n.º 54/2018, de 6 de julho</li>
+                  <li>Portaria n.º 1102/97, de 3 de Novembro</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
