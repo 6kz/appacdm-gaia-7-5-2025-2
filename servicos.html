@@ -305,6 +305,35 @@
           </div>
         </div>
       </div>
+
+      <div id="modal-irs" class="modal">
+        <div class="modal-content">
+          <span class="close-modal">&times;</span>
+          <h2>Consignação IRS</h2>
+          <p>
+            Nos termos do n.º 6 do art.º 32º da Lei n.16/2001, de 22 de junho, a
+            consignação de IRS é uma possibilidade que todos os contribuintes têm
+            ao seu dispor para ajudar uma Instituição Particular de Solidariedade
+            Social (IPSS), e consiste em decidir atribuir 0,5% da coleta de
+            imposto para outra entidade, em vez de reverter para os cofres do
+            Estado.
+          </p>
+          <p>
+            Este gesto não comporta nenhum custo acrescido para o contribuinte,
+            pois o imposto a pagar e o montante a ser reembolsado nunca será
+            alterado. Ser solidário é um ato de responsabilidade social.
+          </p>
+          <p>
+            Para ajudar basta preencher no Anexo H da sua declaração de IRS, no
+            campo 901, o número de identificação fiscal da
+            <strong>APPACDM de Vila Nova de Gaia – 504646893</strong>
+          </p>
+  
+          <div class="qr-code">
+            <img src="#" alt="Imagem demonstrativa de consignação IRS" />
+          </div>
+        </div>
+      </div>
     </section>
 
     <!-- CTA Section -->
@@ -367,6 +396,56 @@
 
   <!-- Scripts -->
   <script src="assets/js/main.js"></script>
-</body>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const modals = {
+        caci: document.getElementById("modal-caci"),
+        ipi: document.getElementById("modal-ipi"),
+        lr: document.getElementById("modal-lr"),
+        socioeducativo: document.getElementById("modal-socioeducativo"),
+      };
 
+      document
+        .getElementById("btn-caci")
+        .addEventListener("click", function () {
+          modals.caci.style.display = "block";
+        });
+
+      document
+        .getElementById("btn-ipi")
+        .addEventListener("click", function () {
+          modals.ipi.style.display = "block";
+        });
+
+      document
+        .getElementById("btn-lr")
+        .addEventListener("click", function () {
+          modals.lr.style.display = "block";
+        });
+
+      document
+        .getElementById("btn-socioeducativo")
+        .addEventListener("click", function () {
+          modals.socioeducativo.style.display = "block";
+        });
+
+      const closeButtons = document.querySelectorAll(".close-modal");
+      closeButtons.forEach(function (button) {
+        button.addEventListener("click", function () {
+          for (const key in modals) {
+            modals[key].style.display = "none";
+          }
+        });
+      });
+
+      window.addEventListener("click", function (event) {
+        for (const key in modals) {
+          if (event.target === modals[key]) {
+            modals[key].style.display = "none";
+          }
+        }
+      });
+    });
+  </script>
+</body>
 </html>
